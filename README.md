@@ -9,6 +9,7 @@
 | **Local** | Sinop, Mato Grosso, Brasil |
 | **Estágio** | **Em operação** — https://portal.clearmirrortechnology.com |
 | **Registro público** | versão 1.0 (data da publicação deste registro: novembro de 2026) |
+| **DOI** | [10.5281/zenodo.24041376](https://doi.org/10.5281/zenodo.24041376) — nota técnica no Zenodo |
 
 ## Descrição
 
@@ -56,12 +57,13 @@ oficial da tecnologia.
 - Clear Mirror Technology: https://clearmirrortechnology.com
 - Portal: https://portal.clearmirrortechnology.com
 - Instagram: https://www.instagram.com/clearmirrorbr · YouTube: https://www.youtube.com/@clearmirrorbr
+- Nota técnica no Zenodo: https://doi.org/10.5281/zenodo.24041376 (todas as versões: https://doi.org/10.5281/zenodo.24041375)
 - Outros registros públicos da Clear Mirror Technology: https://github.com/clear-mirror-technology
 
 ## Como citar
 
 Borges, Adevarley. *Portal Clear Mirror — Sistema de Orçamentos e Pedidos*. Clear Mirror Technology, Sinop (MT), 2026.
-Registro público versão 1.0.
+Registro público versão 1.0. DOI: https://doi.org/10.5281/zenodo.24041376
 
 ## Direitos
 
