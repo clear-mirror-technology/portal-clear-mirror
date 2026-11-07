@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Para citar este registro, use os dados abaixo."
+type: dataset
+title: "Portal Clear Mirror — Sistema de Orçamentos e Pedidos"
+version: "1.0"
+authors:
+  - family-names: "Borges"
+    given-names: "Adevarley"
+    affiliation: "Clear Mirror Technology"
+abstract: >-
+  Registro descritivo do Portal Clear Mirror, plataforma web desenvolvida pela Clear Mirror Technology, em Sinop,
+  Mato Grosso, Brasil, que transforma a especificação de um espelho iluminado sob medida em desenho técnico gerado na
+  hora, orçamento com projeto técnico em PDF e pedido de fabricação. Em operação. Não contém código-fonte.
+keywords:
+  - Clear Mirror Technology
+  - Portal Clear Mirror
+  - espelhos iluminados
+  - configurador de produto
+  - desenho técnico automático
+  - orçamento online
+  - Sinop
+  - Mato Grosso
+url: "https://portal.clearmirrortechnology.com"
